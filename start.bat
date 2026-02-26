@@ -1,9 +1,9 @@
 @echo off
-title Discord Recovery - Installer
+title Zeno Solutions
 color 0A
 
 echo ========================================
-echo   Discord Recovery - Setup ^& Start
+echo   Zeno Solutions - Setup ^& Start
 echo ========================================
 echo.
 
@@ -16,3 +16,4 @@ echo ========================================
 python panel.py
 
 pause
+
